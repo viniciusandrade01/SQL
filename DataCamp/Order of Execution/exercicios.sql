@@ -1,0 +1,8 @@
+-- Ordem de Execução de uma Query SQL
+-- Passo 1: FROM (Definição da fonte dos dados)
+-- Passo 2: WHERE (Filtragem de linhas com base em condições)
+-- Passo 3: GROUP BY (Agrupamento de linhas por valores específicos)
+-- Passo 4: HAVING (Filtragem de grupos no caso de cláusula GROUP BY)
+-- Passo 5: SELECT (Seleção das colunas e cálculos, definição de aliases 'AS BLÁ')
+-- Passo 6: ORDER BY (Ordenação das linhas)
+-- Passo 7: LIMIT (Restrição do número de linhas retornadas)
